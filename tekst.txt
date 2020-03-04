@@ -1,0 +1,3 @@
+﻿Można od wersji 3.0 .NETCore dać using var connectionString = ... , wtedy nie trzeba używać operacji close, bo automatycznie będzie pamiętać żeby zamknąć połączenie z bazą danych
+
+Reader to pośrednik do czytania bazy danych
